@@ -155,6 +155,13 @@ Permiten mantener el acceso o ejecutar tareas automáticas.
 - [TryHackMe: Metasploit Rooms](https://tryhackme.com/)
 
 ---
+## 🧑‍🏫 Autor
 
-✍️ **Autor:** Sebastián Peinador  
-📘 **Propósito:** Guía educativa para prácticas de post-explotación en entornos controlados.
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+---
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
